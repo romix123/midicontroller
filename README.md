@@ -1,5 +1,7 @@
 A Simple midicontroller based on beaatrmatrix mk2 hardware, 
 see https://github.com/yobalint/beatrmatrix-mk2-arduino-based-ableton-controller
+![IMG_0295](https://github.com/user-attachments/assets/aabf711e-9434-4f4f-8d8d-82a4fd50828f)
+
 
 This version sends out serial midi CC codes (and receives them). On Mac or PC run A.V Perotta's serialToMidi app to
 convert serialmidi to IAC driver midi that can be handled by any DAW.
